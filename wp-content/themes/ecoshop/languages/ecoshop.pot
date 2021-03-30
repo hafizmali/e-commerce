@@ -1,0 +1,106 @@
+# Copyright (C) 2016 the WebiCode team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecoshop 0.1.20160608\n"
+"Report-Msgid-Bugs-To: http://themeforest.net/user/m_adnan\n"
+"POT-Creation-Date: 2016-06-08 12:58:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:09
+msgid "PAGE NOT FOUND!"
+msgstr ""
+
+#: 404.php:10
+msgid "Looks like the page you’re trying to visit doesn’t exist. Please check the URL and try your luck again."
+msgstr ""
+
+#: author.php:23
+msgid "READ MORE"
+msgstr ""
+
+#: comments.php:16
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Name"
+msgstr ""
+
+#: comments.php:48
+msgid "Email"
+msgstr ""
+
+#: comments.php:54
+msgid "Website"
+msgstr ""
+
+#: comments.php:70
+msgid "SUBMIT COMMENT"
+msgstr ""
+
+#: comments.php:73
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:82
+msgid "POST YOUR COMMENTS"
+msgstr ""
+
+#: index.php:29
+msgid "READ MORE"
+msgstr ""
+
+#: search.php:25
+msgid "READ MORE"
+msgstr ""
+
+#: search.php:30
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:8
+msgid "Search here"
+msgstr ""
+
+#: single.php:36
+msgid "Pages:"
+msgstr ""
+
+#: single.php:44
+msgid "POST TAGS"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Ecoshop"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/m_adnan/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"ECOSHOP is high quality eCommerce WordPress theme which designed for commercial use like clothes, cosmetics, furniture, gadgets, shoes, bags, home decore etc. A ready WordPress theme to make a various online shop."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "m_adnan"
+msgstr ""

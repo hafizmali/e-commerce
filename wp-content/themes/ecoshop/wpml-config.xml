@@ -1,0 +1,23 @@
+<wpml-config>
+    <admin-texts>
+        <key name="vpt_option">
+            <key name="slider_revolution_alias" />
+            <key name="main_heading_bread" />
+            <key name="small_description_bread" />
+            <key name="background_image_bread" />
+            <key name="currency_symbol_feature" />
+            <key name="price_feature" />
+            <key name="main_heading_feature" />
+            <key name="feature_heading_feature" />
+            <key name="shop_link_feature" />
+            <key name="top_bar_email" />
+            <key name="footer_copyright" />
+            <key name="error_404" />
+            <key name="about_shop_heading" />
+            <key name="about_shop_description" />
+            <key name="newsletter_heading" />
+            <key name="newsletter_description" />
+            <key name="newsletter_shortcode" />
+        </key>
+    </admin-texts>
+</wpml-config>
